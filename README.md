@@ -15,3 +15,4 @@ Period to calculate the average gain and average loss values is 14 day period.
 RSI = 100 - [[100] / 1 + [ Average Gain / Average Loss]]
 
 ![Figure_1](https://github.com/user-attachments/assets/6e36b2f6-1669-40dc-9762-0596975626d8)
+![Figure_2](https://github.com/user-attachments/assets/d93ddd84-0ae3-4d66-ac12-515506bc0710)
